@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arathi Biju</h1>
+<h1 align="center">Hi 👋, I'm Arathi</h1>
 <h3 align="center">A computer systems engineering student in New Zealand</h3>
 
 - 🔭 I’m currently working on **Cheap Eats, an android app that displays places to eat and drink around the University of Auckland, and an 2D Pixel game using the Godot game engine**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arathibiju2000@gmail.com**
 
-- 📄 View my CV here [https://www.dropbox.com/s/vs0nrdup97nh2ja/Arathi_Biju_Resume.pdf?dl=0](https://www.dropbox.com/s/vs0nrdup97nh2ja/Arathi_Biju_Resume.pdf?dl=0)
+- 📄 View my CV here [https://www.dropbox.com/s/t4mvaxyiseo0ibr/Arathi_Biju_CV.pdf?dl=0](https://www.dropbox.com/s/t4mvaxyiseo0ibr/Arathi_Biju_CV.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
