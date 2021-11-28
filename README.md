@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cheap Eats, an android app that displays places to eat and drink around the University of Auckland, and an 2D Pixel game using the Godot game engine**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, .NET and C#**
 
 - 📫 How to reach me **arathibiju2000@gmail.com**
 
