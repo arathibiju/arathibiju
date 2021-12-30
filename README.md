@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arathi</h1>
 <h3 align="center">A computer systems engineering student in New Zealand</h3>
 
-- 🔭 I’m currently working on **Cheap Eats, an android app that displays places to eat and drink around the University of Auckland, and an 2D Pixel game using the Godot game engine**
+- 🔭 I’m currently working on **Cheap Eats, an android app, and an 2D Pixel game using the Godot game engine**
 
 - 🌱 I’m currently learning **React, .NET and C#**
 
