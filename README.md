@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, .NET and C#**
 
-- 📫 How to reach me **arathibiju2000@gmail.com**
-
 - 📄 View my CV here [https://www.dropbox.com/s/t4mvaxyiseo0ibr/Arathi_Biju_CV.pdf?dl=0](https://www.dropbox.com/s/t4mvaxyiseo0ibr/Arathi_Biju_CV.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
