@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ! 👋</h1>
-<h3 align="center">A computer systems engineering student in New Zealand</h3>
+<h4 align="center">I'm Arathi, an engineering student who aims to be a full stack developer</h4>
 
 - 🔭 I’m currently working on **Todo App with React.js, and an 2D Pixel game using Godot**
 
