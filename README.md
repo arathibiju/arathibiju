@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, .NET and C#**
 
-- 📄 View my CV here [https://www.dropbox.com/s/t4mvaxyiseo0ibr/Arathi_Biju_CV.pdf?dl=0](https://www.dropbox.com/s/t4mvaxyiseo0ibr/Arathi_Biju_CV.pdf?dl=0)
+- 📄 View my CV here [https://www.dropbox.com/s/cweax7hjeza3079/Arathi%20Biju%20CV%202022.pdf?dl=0](https://www.dropbox.com/s/cweax7hjeza3079/Arathi%20Biju%20CV%202022.pdf?dl=0)
 - Connect with me on LinkedIn [here](https://linkedin.com/in/arathi-biju)
 
 <h3 align="left">Languages and Tools:</h3>
