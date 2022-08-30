@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+</div>  
 <h3 align="center">I'm Arathi</h3>
 
 - 🔭 I’m currently working on **Cheap Eats mobile app and Speech Emotion Recognition**
