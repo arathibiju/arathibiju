@@ -3,7 +3,7 @@
 </div>  
 <h3 align="center">I'm Arathi</h3>
 
-- 🔭 I’m currently working on **Cheap Eats mobile app and Speech Emotion Recognition**
+- 🔭 I’m currently working on **a machine learning system for Speech Emotion Recognition**
 
 - 🌱 I’m currently learning **Salesforce, C#, and game development**
 
