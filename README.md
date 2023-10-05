@@ -3,10 +3,6 @@
 </div>  
 <h3 align="center">I'm Arathi</h3>
 
-- 🔭 I’m currently working on **a machine learning system for Speech Emotion Recognition**
-
-- 🌱 I’m currently learning **Salesforce, C#, and game development**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arathi-biju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arathi-biju" height="30" width="40" /></a>
