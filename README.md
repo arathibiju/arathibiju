@@ -1,7 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div>  
-<h3 align="center">I'm Arathi</h3>
+
+<h2 align="center">Hi there</h2>
+<h3 align="Left">I'm Arathi, a computer systems engineer based in Brisbane</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
